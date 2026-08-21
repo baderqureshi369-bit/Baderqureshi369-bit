@@ -1,5 +1,8 @@
 <div align="center">
-type=waving&color=0:0e75b6,50:2563eb,100:7c3aed&height=220&section=header&text=Badar%20Ul%20Islam%20Qureshi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Software%20Developer%20%7C%20Pakistan&descAlignY=55&descSize=18" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2563eb,100:7c3aed&height=220&section=header&text=Badar%20Ul%20Islam%20Qureshi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Software%20Developer%20%7C%20Pakistan&descAlignY=55&descSize=18" width="100%" alt="Badar Ul Islam Qureshi"/>
+
+---
 
 # 👋 Hi, I'm **Badar Qureshi**
 
