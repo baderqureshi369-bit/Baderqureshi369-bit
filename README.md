@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2563eb,100:7c3aed&height=220&section=header&text=Badar%20Ul%20Islam%20Qureshi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Software%20Developer%20%7C%20Pakistan&descAlignY=55&descSize=18" width="100%" />
 
-# 👋 Hi, I'm Badar Qureshi
+# 👋 Hi, I'm **Badar Qureshi**
 
-### Web & Software Developer 🇵🇰
+### 💻 **Web & Software Developer** 🇵🇰
 
-**Full-Stack • Electron • AI/ML • SaaS**
+**Full-Stack** • **Electron** • **AI/ML** • **SaaS**
 
 <p>
   <a href="https://github.com/baderqureshi369-bit">
@@ -27,118 +27,166 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Web & Software Developer from Pakistan** focused on building practical, reliable, and user-focused software.
+I'm a **Web & Software Developer from Pakistan 🇵🇰** focused on building **practical, reliable, and user-focused software**.
 
-My interests span across **full-stack web development, desktop applications, real-time systems, AI/ML, SaaS products, and business software**.
+My interests span across **Full-Stack Development**, **Desktop Applications**, **Real-Time Systems**, **AI/ML**, **SaaS Products**, and **Business Software**.
 
-I enjoy turning ideas and real-world problems into complete software solutions — from the user interface and backend APIs to databases, real-time communication, desktop applications, and deployment.
+I enjoy turning real-world problems into complete software solutions — from **UI/UX and frontend development** to **backend APIs, databases, real-time communication, desktop applications, and deployment**.
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│  💻 Full-Stack Development                               │
-│  🖥️  Desktop Applications                                │
-│  🤖 AI / Machine Learning                                │
-│  ⚡ Real-Time Applications                               │
-│  🗄️  Database & Backend Systems                          │
-│  🚀 SaaS & Business Software                             │
-└──────────────────────────────────────────────────────────┘
-```
+### 💡 What I Build
 
----
-
-## 🚀 What I'm Currently Working On
-
-### 🏥 Hospital Queue Management System
-
-A real-time queue management platform designed for hospitals, connecting **ticket dispensers, reception/counter screens, queue control, and waiting-area displays**.
-
-**Focus:** Real-time systems · Desktop applications · Backend APIs · Database systems · Socket communication
-
-[![View Queue Management System](https://img.shields.io/badge/VIEW_PROJECT-Queue_Management_System-0e75b6?style=for-the-badge\&logo=github)](https://github.com/baderqureshi369-bit/Queue-Management-System-DV)
+* 💻 **Full-Stack Web Applications**
+* 🖥️ **Desktop Applications**
+* ⚡ **Real-Time Systems**
+* 🤖 **AI & Machine Learning Applications**
+* 🗄️ **Database-Driven Software**
+* 🏢 **ERP & Business Management Systems**
+* 💊 **Pharmacy & Inventory Solutions**
+* 🚀 **SaaS Products**
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Currently Working On
 
-<div align="center">
+### 🏥 **Hospital Queue Management System**
 
+A **real-time hospital queue management platform** connecting **ticket dispensers, reception counters, queue control, and waiting-area displays**.
+
+**Core Focus:**
+`Real-Time Systems` • `Electron` • `React` • `Node.js` • `Express` • `Socket.IO` • `MongoDB`
+
+<p>
 <a href="https://github.com/baderqureshi369-bit/Queue-Management-System-DV">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=baderqureshi369-bit&repo=Queue-Management-System-DV&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/🔗%20VIEW%20PROJECT-Queue%20Management%20System-0e75b6?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
-<a href="https://github.com/baderqureshi369-bit/Medichat-Stock-Pro-DV">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=baderqureshi369-bit&repo=Medichat-Stock-Pro-DV&theme=tokyonight&hide_border=true" />
-</a>
+---
 
-<a href="https://github.com/baderqureshi369-bit/Enterprise-Resource-Planning-System-DV">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=baderqureshi369-bit&repo=Enterprise-Resource-Planning-System-DV&theme=tokyonight&hide_border=true" />
-</a>
+# ⭐ Featured Projects
 
-</div>
+Here are three of my main software projects, focused on **real-world applications and business solutions**.
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### 🏥 Queue Management System
 
-**Real-time hospital queue management software** connecting counters, queue control, ticket dispensing, and waiting-area displays.
+A **real-time hospital queue management system** designed to connect:
 
-**Focus:** Real-Time Systems · Electron · React · Node.js · Express · Socket.IO · MongoDB
+* 🎫 Ticket Dispenser
+* 🖥️ Reception Counters
+* 🎛️ Queue Control
+* 📺 Waiting Area Display
+* 🔊 Voice Announcements
+* ⚡ Real-Time Updates
 
-[🔗 View Repository](https://github.com/baderqureshi369-bit/Queue-Management-System-DV)
+**Technologies**
 
----
+`React` `Electron` `Node.js` `Express` `Socket.IO` `MongoDB`
+
+<p align="center">
+<a href="https://github.com/baderqureshi369-bit/Queue-Management-System-DV">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0e75b6?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 💊 Medichat Stock Pro
 
-A medical/pharmacy-focused software project designed around **stock and inventory management**.
+A **medical and pharmacy inventory solution** focused on managing products, stock, and operational data.
 
-**Focus:** Inventory · Pharmacy Software · Database Systems · Business Applications
+Designed around the needs of **medical stores and pharmacy operations**.
 
-[🔗 View Repository](https://github.com/baderqureshi369-bit/Medichat-Stock-Pro-DV)
+**Focus**
 
----
+`Inventory` `Pharmacy` `Stock Management` `Database` `Business Software`
+
+<p align="center">
+<a href="https://github.com/baderqureshi369-bit/Medichat-Stock-Pro-DV">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0e75b6?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🏢 Enterprise Resource Planning System
 
-A business-focused **ERP system** designed to bring operational management, inventory, sales, projects, and reporting into one platform.
+A **business-focused ERP platform** designed to bring operational processes into one system.
 
-**Focus:** ERP · Inventory · Sales · Business Management · Reporting
+Focused on areas such as:
 
-[🔗 View Repository](https://github.com/baderqureshi369-bit/Enterprise-Resource-Planning-System-DV)
+* 📦 Inventory
+* 💰 Sales
+* 📊 Reporting
+* 🏢 Projects
+* 📈 Business Operations
+
+**Focus**
+
+`ERP` `Inventory` `Sales` `Business Management`
+
+<p align="center">
+<a href="https://github.com/baderqureshi369-bit/Enterprise-Resource-Planning-System-DV">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0e75b6?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technology Stack
 
-<div align="center">
+### 💻 Programming Languages
 
-### Languages
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,cs,java,php,rust" />
+</p>
 
-### Frontend
+### 🎨 Frontend Development
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,vue,svelte,angular,html,css,tailwind,bootstrap,redux" />
+</p>
 
-### Backend
+### ⚙️ Backend Development
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,django,flask,laravel,dotnet" />
+</p>
 
-### Databases
+### 🗄️ Databases
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis" />
+</p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
 
-### Desktop & Mobile
+### 🖥️ Desktop & Mobile
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=electron,flutter,dart,kotlin,react" />
+</p>
 
-### DevOps & Tools
+### ☁️ DevOps & Development Tools
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,bash,postman,figma" />
-
-</div>
+</p>
 
 ---
 
@@ -147,12 +195,20 @@ A business-focused **ERP system** designed to bring operational management, inve
 <div align="center">
 
 <a href="https://github.com/baderqureshi369-bit">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=baderqureshi369-bit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Badar's GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=baderqureshi369-bit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Badar's GitHub Stats"/>
 </a>
 
 <a href="https://github.com/baderqureshi369-bit">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baderqureshi369-bit&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baderqureshi369-bit&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baderqureshi369-bit&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph"/>
 
 </div>
 
@@ -168,16 +224,6 @@ A business-focused **ERP system** designed to bring operational management, inve
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baderqureshi369-bit&theme=tokyo-night&hide_border=true&area=true&custom_title=Badar%27s%20Contribution%20Activity" alt="GitHub Contribution Activity Graph"/>
-
-</div>
-
----
-
 # 🏆 GitHub Achievements
 
 <div align="center">
@@ -188,107 +234,35 @@ A business-focused **ERP system** designed to bring operational management, inve
 
 ---
 
-# 📌 My Development Focus
+# 🐍 Contribution Graph
 
-<table align="center">
-<tr>
-<td align="center" width="200">
+<div align="center">
 
-### 💻
+<img src="https://raw.githubusercontent.com/baderqureshi369-bit/baderqureshi369-bit/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-**Full-Stack**
-
-Modern web applications, APIs, authentication, and databases.
-
-</td>
-
-<td align="center" width="200">
-
-### 🖥️
-
-**Desktop Apps**
-
-Cross-platform business software and Windows applications.
-
-</td>
-
-<td align="center" width="200">
-
-### 🤖
-
-**AI / ML**
-
-Intelligent features and practical machine-learning applications.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="200">
-
-### ⚡
-
-**Real-Time**
-
-Socket-based communication and live application updates.
-
-</td>
-
-<td align="center" width="200">
-
-### 🏢
-
-**Business Software**
-
-ERP, inventory, pharmacy, and operational management systems.
-
-</td>
-
-<td align="center" width="200">
-
-### 🚀
-
-**SaaS**
-
-Scalable software products designed around real-world problems.
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 # 🌱 Currently Learning
 
-```text
-Advanced Full-Stack Development
-        ↓
-AI / Machine Learning
-        ↓
-Cloud & DevOps
-        ↓
-Scalable Software Architecture
-        ↓
-SaaS Product Development
-```
+I'm continuously improving my skills in:
+
+* 🚀 **Advanced Full-Stack Development**
+* 🤖 **Artificial Intelligence & Machine Learning**
+* ☁️ **Cloud & DevOps**
+* 🏗️ **Scalable Software Architecture**
+* 💡 **SaaS Product Development**
 
 ---
 
-# 🤝 Open To
+# 🤝 Open To Collaboration
 
-I'm interested in connecting with developers, designers, founders, and teams working on:
+I'm interested in collaborating on:
 
-* 🚀 Hackathons
-* 🌎 Open-source projects
-* 💡 SaaS ideas
-* 🤖 AI-powered applications
-* 💻 Full-stack applications
-* 🖥️ Desktop software
-* ⚡ Real-time systems
-* 🏢 Business management software
+**🚀 Hackathons** · **🌎 Open Source** · **🤖 AI Projects** · **💡 SaaS Ideas** · **💻 Full-Stack Applications** · **🖥️ Desktop Software**
+
+If you're building something interesting, feel free to connect.
 
 ---
 
@@ -310,11 +284,9 @@ I'm interested in connecting with developers, designers, founders, and teams wor
 
 <div align="center">
 
-### 💡 Building software that solves real problems.
+### 💡 **Building software that solves real problems.**
 
-**Thanks for visiting my profile!**
-
-⭐ Feel free to explore my repositories and follow my development journey.
+⭐ **Thanks for visiting my profile!**
 
 <br>
 
