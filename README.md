@@ -32,7 +32,7 @@ I enjoy working across the full development lifecycle — from designing interfa
 💻 Web Development        → React · Vue · Svelte · JavaScript · TypeScript
 ⚙️ Backend Development    → Node.js · Express · REST APIs · Socket.IO
 🖥️ Desktop Applications   → Electron · SQLite
-🗄️ Databases              → MongoDB · PostgreSQL · MySQL · SQLite
+🗄️ Databases              → MongoDB · PostgreSQL · MySQL · SQLite · Supabase
 🤖 AI / Machine Learning  → Python · PyTorch · TensorFlow · Scikit-learn
 ☁️ Cloud & DevOps         → Git · GitHub · Docker · AWS · Azure
 🎨 UI / UX                → Tailwind CSS · Bootstrap · Figma
