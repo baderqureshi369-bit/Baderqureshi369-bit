@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2563eb,100:7c3aed&height=220&section=header&text=Badar%20Ul%20Islam%20Qureshi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Software%20Developer%20%7C%20Pakistan&descAlignY=55&descSize=18" width="100%" alt="Badar Ul Islam Qureshi"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2563eb,100:7c3aed&height=220&section=header&text=Badar%20Ul%20Islam%20Qureshi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Software%20Developer%20%7C%20Pakistan&descAlignY=55&descSize=18" width="100%" />
 
 # 👋 Hi, I'm **Badar Qureshi**
 
@@ -35,16 +35,16 @@ I enjoy transforming real-world problems into complete software products — fro
 
 ### 💡 What I Build
 
-| Area                 | Focus                                    |
-| -------------------- | ---------------------------------------- |
-| 💻 Full-Stack        | Modern web applications & APIs           |
-| 🖥️ Desktop          | Electron-based business applications     |
-| ⚡ Real-Time          | Live communication & real-time systems   |
-| 🤖 AI / ML           | Intelligent and data-driven applications |
-| 🗄️ Databases        | SQL & NoSQL database solutions           |
-| 🏢 Business Software | ERP, inventory & management systems      |
-| 💊 Healthcare        | Pharmacy & hospital software             |
-| 🚀 SaaS              | Scalable software products               |
+| Area                 | Focus                                     |
+| -------------------- | ----------------------------------------- |
+| 💻 Full-Stack        | Modern web applications & APIs            |
+| 🖥️ Desktop          | Electron-based business applications      |
+| ⚡ Real-Time          | Socket-based communication & live systems |
+| 🤖 AI / ML           | Intelligent and data-driven applications  |
+| 🗄️ Databases        | SQL & NoSQL database solutions            |
+| 🏢 Business Software | ERP, inventory & management systems       |
+| 💊 Healthcare        | Pharmacy & hospital software              |
+| 🚀 SaaS              | Scalable software products                |
 
 ---
 
@@ -63,7 +63,7 @@ A **real-time hospital queue management platform** connecting:
 ### Key Features
 
 * 🎫 Digital ticket dispensing
-* 🖥️ Reception and counter management
+* 🖥️ Reception / counter management
 * 🎛️ Central queue control
 * 📺 Waiting-area display
 * 🔊 Voice announcements
@@ -71,9 +71,9 @@ A **real-time hospital queue management platform** connecting:
 * 🗄️ MongoDB database
 * 🖥️ Windows desktop deployment
 
-<p align="center">
+<p>
 <a href="https://github.com/baderqureshi369-bit/Queue-Management-System-DV">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-Queue%20Management%20System-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Queue Management System"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-Queue%20Management%20System-0e75b6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -86,11 +86,11 @@ A **real-time hospital queue management platform** connecting:
 
 <td width="33%" valign="top">
 
-### 🏥 Queue Management System
+## 🏥 Queue Management System
 
 Real-time hospital queue management software designed for hospitals and reception environments.
 
-**Includes**
+### Includes
 
 * 🎫 Ticket Dispenser
 * 🖥️ Counter Screens
@@ -99,13 +99,13 @@ Real-time hospital queue management software designed for hospitals and receptio
 * 🔊 Voice Announcements
 * ⚡ Real-Time Updates
 
-**Stack**
+### Stack
 
 `React` `Electron` `Node.js` `Express` `Socket.IO` `MongoDB`
 
 <p align="center">
 <a href="https://github.com/baderqureshi369-bit/Queue-Management-System-DV">
-<img src="https://img.shields.io/badge/VIEW-0e75b6?style=for-the-badge&logo=github" alt="View Queue Management System"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0e75b6?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
@@ -113,11 +113,11 @@ Real-time hospital queue management software designed for hospitals and receptio
 
 <td width="33%" valign="top">
 
-### 💊 Medichat Stock Pro
+## 💊 Medichat Stock Pro
 
 A pharmacy and medical inventory solution focused on managing products, stock, and operational data.
 
-**Focus**
+### Focus
 
 * 📦 Inventory
 * 💊 Pharmacy Management
@@ -125,13 +125,13 @@ A pharmacy and medical inventory solution focused on managing products, stock, a
 * 🗄️ Database Management
 * 🏢 Business Operations
 
-**Stack**
+### Stack
 
 `Inventory` `Pharmacy` `Database` `Business Software`
 
 <p align="center">
 <a href="https://github.com/baderqureshi369-bit/Medichat-Stock-Pro-DV">
-<img src="https://img.shields.io/badge/VIEW-0e75b6?style=for-the-badge&logo=github" alt="View Medichat Stock Pro"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0e75b6?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
@@ -139,11 +139,11 @@ A pharmacy and medical inventory solution focused on managing products, stock, a
 
 <td width="33%" valign="top">
 
-### 🏢 Enterprise Resource Planning System
+## 🏢 Enterprise Resource Planning System
 
-Business-focused ERP software designed to centralize operational processes.
+Business-focused ERP software designed to bring operational processes into a centralized system.
 
-**Includes**
+### Includes
 
 * 📦 Inventory
 * 💰 Sales
@@ -151,13 +151,13 @@ Business-focused ERP software designed to centralize operational processes.
 * 🏢 Projects
 * 📈 Business Operations
 
-**Focus**
+### Focus
 
 `ERP` `Inventory` `Sales` `Business Management`
 
 <p align="center">
 <a href="https://github.com/baderqureshi369-bit/Enterprise-Resource-Planning-System-DV">
-<img src="https://img.shields.io/badge/VIEW-0e75b6?style=for-the-badge&logo=github" alt="View ERP System"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0e75b6?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
@@ -209,7 +209,7 @@ Business-focused ERP software designed to centralize operational processes.
 ### ☁️ DevOps & Development Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,bash,postman,figma" alt="DevOps and Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,bash,postman,figma" alt="Development Tools"/>
 </p>
 
 ---
@@ -218,21 +218,21 @@ Business-focused ERP software designed to centralize operational processes.
 
 <div align="center">
 
-<a href="https://github.com/baderqureshi369-bit?tab=repositories">
-<img src="https://img.shields.io/badge/📦%20REPOSITORIES-EXPLORE%20PROJECTS-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+<a href="https://github.com/baderqureshi369-bit">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=baderqureshi369-bit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Badar's GitHub Stats"/>
 </a>
-
- 
 
 <a href="https://github.com/baderqureshi369-bit">
-<img src="https://img.shields.io/badge/⭐%20GITHUB%20PROFILE-VIEW%20PROFILE-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baderqureshi369-bit&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 </a>
 
- 
+</div>
 
-<a href="https://github.com/baderqureshi369-bit?tab=overview">
-<img src="https://img.shields.io/badge/📈%20ACTIVITY-VIEW%20ON%20GITHUB-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity"/>
-</a>
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baderqureshi369-bit&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity Graph"/>
 
 </div>
 
@@ -243,19 +243,15 @@ Business-focused ERP software designed to centralize operational processes.
 <div align="center">
 
 <a href="https://github.com/baderqureshi369-bit?tab=repositories">
-<img src="https://img.shields.io/badge/ALL%20REPOSITORIES-EXPLORE-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
+<img src="https://img.shields.io/badge/📦%20REPOSITORIES-EXPLORE%20PROJECTS-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
-
- 
 
 <a href="https://github.com/baderqureshi369-bit?tab=stars">
-<img src="https://img.shields.io/badge/STARRED%20PROJECTS-EXPLORE-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Starred Projects"/>
+<img src="https://img.shields.io/badge/⭐%20STARRED%20PROJECTS-EXPLORE-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Starred Projects"/>
 </a>
 
- 
-
 <a href="https://github.com/baderqureshi369-bit?tab=projects">
-<img src="https://img.shields.io/badge/GITHUB%20PROJECTS-VIEW%20ALL-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
+<img src="https://img.shields.io/badge/🚀%20PROJECTS-VIEW%20ALL-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
 </div>
@@ -266,13 +262,7 @@ Business-focused ERP software designed to centralize operational processes.
 
 <div align="center">
 
-<a href="https://github.com/baderqureshi369-bit">
-<img src="https://img.shields.io/badge/🔥%20CONTRIBUTION%20STREAK-VIEW%20ON%20GITHUB-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Streak"/>
-</a>
-
-<p>
-Track my latest contribution activity directly on my GitHub profile.
-</p>
+<img src="https://streak-stats.demolab.com?user=baderqureshi369-bit&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -283,13 +273,13 @@ Track my latest contribution activity directly on my GitHub profile.
 <div align="center">
 
 <a href="https://github.com/baderqureshi369-bit?tab=achievements">
-<img src="https://img.shields.io/badge/🏆%20ACHIEVEMENTS-VIEW%20ACHIEVEMENTS-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements"/>
+<img src="https://img.shields.io/badge/🏆%20GITHUB%20ACHIEVEMENTS-VIEW%20ACHIEVEMENTS-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements"/>
 </a>
 
- 
+<br><br>
 
 <a href="https://github.com/baderqureshi369-bit?tab=achievements">
-<img src="https://img.shields.io/badge/⭐%20EXPLORE-ACHIEVEMENTS-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Explore Achievements"/>
+<img src="https://img.shields.io/badge/⭐%20EXPLORE%20MY%20ACHIEVEMENTS-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Achievements"/>
 </a>
 
 </div>
@@ -305,12 +295,6 @@ Track my latest contribution activity directly on my GitHub profile.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baderqureshi369-bit/baderqureshi369-bit/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/baderqureshi369-bit/baderqureshi369-bit/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
 </picture>
-
-<br><br>
-
-<a href="https://github.com/baderqureshi369-bit">
-<img src="https://img.shields.io/badge/VIEW%20FULL%20CONTRIBUTION%20HISTORY-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="View Contribution History"/>
-</a>
 
 </div>
 
@@ -344,11 +328,11 @@ If you're building something interesting, feel free to connect.
 <div align="center">
 
 <a href="https://github.com/baderqureshi369-bit">
-<img src="https://img.shields.io/badge/GitHub-Badar%20Qureshi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Badar%20Qureshi-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/bader_world.1">
-<img src="https://img.shields.io/badge/Instagram-bader__world.1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-bader__world.1-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -363,6 +347,6 @@ If you're building something interesting, feel free to connect.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2563eb,100:7c3aed&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2563eb,100:7c3aed&height=120&section=footer" width="100%" />
 
 </div>
